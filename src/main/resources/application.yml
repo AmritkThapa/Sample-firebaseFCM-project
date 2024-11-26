@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: firebaseFCM
+
+
+fcm:
+    path: ${FILE_PATH}
