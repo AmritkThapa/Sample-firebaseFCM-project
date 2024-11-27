@@ -53,4 +53,4 @@ You  can configure the environment variables from you intellij consoles also, Be
 <img src="https://github.com/AmritkThapa/Sample-firebaseFCM-project/blob/master/screenshots/Screenshot_2.png" width="70%"/>
 
 - Step 3 screenshot
-<img src="https://github.com/AmritkThapa/Sample-firebaseFCM-project/blob/master/screenshots/Screenshot_2.png" width="70%"/>
+<img src="https://github.com/AmritkThapa/Sample-firebaseFCM-project/blob/master/screenshots/Screenshot_3.png" width="70%"/>
