@@ -45,12 +45,13 @@ You  can configure the environment variables from you intellij consoles also, Be
 2. Click more options there & select Environment variables
 3. Add necessary env variables there like shown in screenshot 3 & click ok.
 ```
-
 ### Screenshot for second option
 
-![Step 1 screenshot](https://github.com/AmritkThapa/Sample-firebaseFCM-project/blob/master/screenshots/Screenshot_1.png)
+<p style="font-size: 14px;">This is the first screenshot showing the steps for setting the environment variable:</p>
+<img src="https://github.com/AmritkThapa/Sample-firebaseFCM-project/blob/master/screenshots/Screenshot_1.png" width="300"/>
 
-![Step 2 screenshot](https://github.com/AmritkThapa/Sample-firebaseFCM-project/blob/master/screenshots/Screenshot_2.png)
+<p style="font-size: 14px;">This is the second screenshot showing the next step:</p>
+<img src="https://github.com/AmritkThapa/Sample-firebaseFCM-project/blob/master/screenshots/Screenshot_2.png" width="300"/>
 
-![Step 3 screenshot](https://github.com/AmritkThapa/Sample-firebaseFCM-project/blob/master/screenshots/Screenshot_2.png)
-
+<p style="font-size: 14px;">This is the third screenshot showing the final step:</p>
+<img src="https://github.com/AmritkThapa/Sample-firebaseFCM-project/blob/master/screenshots/Screenshot_2.png" width="300"/>
